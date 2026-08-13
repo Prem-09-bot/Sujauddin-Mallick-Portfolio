@@ -53,7 +53,7 @@ tsParticles.load("particles", {
 });
 
 const text =
-"Frontend Developer • AI Enthusiast • Network Simulation Learner";
+"BCA Student • AI Enthusiast •  Full-Stack Developer ";
 
 let i = 0;
 
