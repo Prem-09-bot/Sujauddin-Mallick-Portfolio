@@ -336,7 +336,7 @@ justify-content:center;
 }
 
 .project-card:hover{
-    transform: translateY(-10px0);
+    transform: translateY(-10px);
 }
 
 .project-card img{
